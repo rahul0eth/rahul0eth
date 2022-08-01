@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahulbajaj369
-- 👀 I’m interested in Cryptography and Cryptocurrencies.
+- 👀 I’m interested in Computer Network Privacy and Distributed Data System.
 - 🌱 I’m currently learning about Machine Learning-based Trading, Software Dev Processes, and Computer Networks.
 
 <!---

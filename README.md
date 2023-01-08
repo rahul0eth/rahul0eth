@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahulbajaj369
+- 👋 Hi, I’m @rahulanonymous
 - 👀 I’m interested in Online Privacy and Distributed Data Systems.
 - 🌱 I’m currently learning about Computer Networks and Information Security.
 

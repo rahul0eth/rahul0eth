@@ -1,8 +1,6 @@
 👋 Hi, I'm @rahul0eth
 
-🖥️ Budding Blockchain Developer passionate about creating innovative solutions in Solidity and Foundry.
-
-👨‍💻 Occasionally dabbling in some White-Hat Hacking and Video Game Dev.
+🖥️ Aspiring Blockchain Developer passionate about mass crypto adoption and use.
 
 🔗 Find me here: [My LinkTree](https://linktr.ee/rahul0.eth)
 

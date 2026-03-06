@@ -1,6 +1,12 @@
 👋 Hi, I'm @rahul0eth
 
-🖥️ Aspiring Blockchain Developer passionate about mass crypto adoption and use.
+🔧 Technical Director working at the intersection of engineering, building codes, and automation.
+
+🧠 Mechanical engineer + computer science background. Figuring out how things work and breaking them until they work better. Most of my tinkering happens in software, automation, and occasionally crypto.
+
+⚙️ I like tinkering with things, both in software and in the real world.
+
+⛓️ Interested in blockchain and crypto, especially around infrastructure and practical use cases.
 
 🔗 Find me here: [My LinkTree](https://linktr.ee/rahul0.eth)
 
